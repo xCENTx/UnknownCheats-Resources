@@ -471,9 +471,9 @@ namespace UnrealEngine
     namespace Offsets
     {
         /// 0.2.0.4
-        constexpr auto GObjects = 0x9A550C0;    //  
-        constexpr auto GNames = 0x999DE00;      //  
-        constexpr auto GWorld = 0x09BD85B8;      // 0
+        constexpr auto GObjects = 0x09A5A140;    //  
+        constexpr auto GNames = 0x099A2E80;      //  
+        constexpr auto GWorld = 0x09BDD638;     // 
 
         namespace World
         {
