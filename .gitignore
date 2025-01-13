@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# unignore .gitignore
+!.gitignore
+
+# unignore directories
+!*/
+
+# Allow public resource files
+!**/*_Classes.h
